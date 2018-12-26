@@ -30,3 +30,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+#butt {
+  font-size: 50px;
+  border-radius: 6px;
+  border: none;
+  background-color: rgb(27,129,212);
+  box-shadow:  0px 4px  rgb(29,105,172);
+  cursor: pointer;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 100px;
+  padding: 10px;
+  color: white;
+}
+
+button:focus {outline:0;}
